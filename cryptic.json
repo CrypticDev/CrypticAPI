@@ -1,0 +1,16 @@
+{
+	"name":"Cryptic Network",
+	"name_short":"Cryptic",
+	"name_lowercase":"cryptic",
+	"description":"",
+	"messages": {
+		"loading":"%name% %version% is now loading.",
+		"enabled":"%name% %version% has been enabled. [%dms]",
+		"disabled":"%name% %version% has been disabled. [%dmin]",
+		"prefix":"[CRYPTIC]"
+	},
+	"version":"0.1",
+	"stage":"Development",
+	"game_versions": ["1.7.10", "1.8", "1.8.1", "1.8.2", "1.8.3"]
+	
+}
