@@ -4,9 +4,9 @@
 	"name_lowercase":"cryptic",
 	"description":"",
 	"messages": {
-		"loading":"%name% %version% is now loading.",
-		"enabled":"%name% %version% has been enabled. [%dms]",
-		"disabled":"%name% %version% has been disabled. [%dmin]",
+		"loading":"{0} v{1} is now loading.",
+		"enabled":"{0} v{1} has been enabled. [{2}ms]",
+		"disabled":"{0} v{1} has been disabled. [{2}min]",
 		"prefix":"[CRYPTIC]"
 	},
 	"version":"0.1",
